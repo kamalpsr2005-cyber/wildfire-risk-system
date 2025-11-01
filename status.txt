@@ -1,0 +1,7 @@
+Original project lost due to SSD crash (SSD corruption). Rebuilding step-by-step.
+Rebuild started: 2025-11-01
+Progress:
+- [ ] API endpoints (Flask)
+- [ ] Frontend (React)
+- [ ] Data ingestion & processing
+- [ ] Model integration
